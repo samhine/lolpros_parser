@@ -1,0 +1,2 @@
+setuptools~=58.2.0
+requests~=2.26.0
