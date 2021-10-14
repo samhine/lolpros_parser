@@ -14,7 +14,7 @@ pip install lolpros-parser
 
 ## Usage
 
-Full functionality can be found within the [method definition file](https://github.com/samhine/lolpros-parser/tree/main/lolpros_parser/parser.py).
+Full functionality can be found within the [method definition file](https://github.com/samhine/lolpros_parser/tree/main/lolpros_parser/parser.py).
 
 ```python
 import lolpros_parser
