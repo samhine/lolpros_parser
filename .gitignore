@@ -1,5 +1,6 @@
 # IDE
 .idea
+build-release.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
