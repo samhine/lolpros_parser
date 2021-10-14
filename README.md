@@ -1,3 +1,6 @@
+[![PyPi](https://img.shields.io/pypi/v/lolpros-parser)](https://pypi.org/project/lolpros-parser/)
+[![Downloads](https://pepy.tech/badge/lolpros-parser)](https://pepy.tech/project/lolpros-parser)
+
 # lolpros_parser
 
 Small library for pulling player data from https://lolpros.gg/ external API.
@@ -6,7 +9,7 @@ Small library for pulling player data from https://lolpros.gg/ external API.
 
 Using `pip`:
 ```commandline
-pip install lolpros_parser
+pip install lolpros-parser
 ```
 
 ## Usage
