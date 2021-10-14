@@ -7,10 +7,11 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='lolpros_parser',
-      version='0.1',
+      packages = ['lolpros_parser'],
+      version='0.0.3',
       description='Python Parser for lolpros.gg',
-      url='http://github.com/samhine/lolpros-parser',
-      download_url="https://github.com/samhine/lolpros_parser/archive/refs/tags/0.0.2.zip",
+      url='http://github.com/samhine/lolpros_parser',
+      download_url="https://github.com/samhine/lolpros_parser/archive/refs/tags/0.0.3.zip",
       author='Samuel Hine',
       author_email='sam.hine27@gmail.com',
       keywords=['PYTHON', 'LOLPROS', 'API'],
